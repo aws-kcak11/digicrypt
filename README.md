@@ -1,2 +1,2 @@
-# digicrypt
+# DigiCrypt
 DigiCrypt Encryption / Decryption Utility
