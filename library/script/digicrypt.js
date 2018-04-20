@@ -7,11 +7,11 @@ Supported Browsers: ALL
 
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 The CODE below is protected by copyright laws.
-(c)2012 - Ashish's Web [http://ashish-web.appspot.com]
+(c)2018 - Ashish's Web [https://www.kcak11.com]
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
 
 For more info:
-visit: http://code-archives.appspot.com
+visit: https://kcak11.com
 
 Usage Warning !! Please read carefully.
 - This code is tested accross all the available browsers.
